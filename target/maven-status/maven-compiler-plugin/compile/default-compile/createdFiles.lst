@@ -1,0 +1,10 @@
+DAO\ActivistaDAO.class
+objetos\Problema.class
+objetos\ActivistasProblema.class
+com\mycompany\ejmplojpaactivista\EjmploJPAactivista.class
+objetos\Direccion.class
+objetos\Activista.class
+objetos\Telefonos.class
+objetos\Cliente.class
+DAO\ProblemaDAO.class
+DAO\ClienteDAO.class
